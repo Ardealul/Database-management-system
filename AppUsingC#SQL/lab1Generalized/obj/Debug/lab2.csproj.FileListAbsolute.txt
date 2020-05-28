@@ -1,0 +1,13 @@
+C:\Users\Ardeal\Desktop\sgbd\lab2\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Ardeal\Desktop\sgbd\lab2\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Ardeal\Desktop\sgbd\lab2\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Ardeal\Desktop\sgbd\lab2\lab1\lab1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Ardeal\Desktop\sgbd\lab2\lab1\lab1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Ardeal\Desktop\sgbd\lab2\lab1\lab1\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\Ardeal\Desktop\sgbd\lab2\lab1\lab1\obj\Debug\lab1.Form1.resources
+C:\Users\Ardeal\Desktop\sgbd\lab2\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\Ardeal\Desktop\sgbd\lab2\lab1\lab1\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\Ardeal\Desktop\sgbd\lab2\lab1\lab1\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Ardeal\Desktop\sgbd\lab2\lab1\lab1\obj\Debug\lab2.csproj.CopyComplete
+C:\Users\Ardeal\Desktop\sgbd\lab2\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Ardeal\Desktop\sgbd\lab2\lab1\lab1\obj\Debug\lab1.pdb
